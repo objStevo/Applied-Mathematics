@@ -1,6 +1,6 @@
 # Applied-Mathematics
 
-#Project 1-128B
+Project 1-128B
 
 This function tries to obtain an approximation to the solution of Ax=b by means of the Gauss-Seidel algorithm. 
 Inputs:
@@ -13,3 +13,7 @@ Inputs:
  should stop once the size of the residual is smaller than rtol. %Output:
  x is the approximate solution produced by the algorithm
  r is the residual for the approximate solution x
+ 
+ Project 2-128B
+ 
+ 
