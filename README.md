@@ -16,7 +16,7 @@ Inputs:
  
  Project 2-128B
  
- The following function generates eigenvalues of an nxn matrix. 
+ The function generates eigenvalues of an nxn matrix. 
  
  Project 1-128A
  
