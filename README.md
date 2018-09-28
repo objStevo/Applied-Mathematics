@@ -20,5 +20,12 @@ Inputs:
  
  Project 1-128A
  
+ cubic.m, a MATLAB file containing your cubic root-finder..
+
+ imaginaryUnits.m, a MATLAB file containing bivariate Newton's method.
+
+ Document or image file for the phase portrait you were asked for in problem 2. Use one of the following file types: .pdf,
+ .png, .gif, .jpg, .jpeg.
+ 
  
  
