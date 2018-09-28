@@ -20,12 +20,20 @@ Inputs:
  
  Project 1-128A
  
- cubic.m, a MATLAB file containing your cubic root-finder..
+ cubic.m, a MATLAB file containing cubic root-finder..
 
  imaginaryUnits.m, a MATLAB file containing bivariate Newton's method.
 
- Document or image file for the phase portrait you were asked for in problem 2. Use one of the following file types: .pdf,
- .png, .gif, .jpg, .jpeg.
+ Document or image file for the phase portrait.
+ 
+ Project 2-128A
+ 
+ Euler.m, a MATLAB file containing my implementation of the Euler method, for problem 1.
+
+ RungeKutta.m, a MATLAB file containing my implementation of the classical RK4 method, for problem 2.
+
+ Graph generator for the 4 plots for question 3, one plot for each of N = 10, 100, 1000, 10000, with the exact solution, the 
+ Euler method solution, and the RK4 solution plotted together. 
  
  
  
