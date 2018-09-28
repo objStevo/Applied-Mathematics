@@ -2,7 +2,8 @@
 
 #Project 1-128B
 
-This function tries to obtain an approximation to the solution % of Ax=b by means of the Gauss-Seidel algorithm. %Inputs:
+This function tries to obtain an approximation to the solution of Ax=b by means of the Gauss-Seidel algorithm. 
+Inputs:
  n = size
  A is an n x n matrix
  b is a vector of size n
